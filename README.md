@@ -56,8 +56,6 @@ For training details, refer to the **[Training Notebook](main_notebook.ipynb)**.
 
 ---
 
-🚀 **Contributions are welcome!** Feel free to submit issues or pull requests.
-
 ⭐ **If you find this project useful, consider giving it a star!**
 
 
