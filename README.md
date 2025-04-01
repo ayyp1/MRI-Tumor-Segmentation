@@ -13,10 +13,7 @@ The  model trained in this project can be found [here](./saved_model/best-model.
 
 ## GUI
 
-For running the gui you just have to clone this repo and  install all the [requirements](requirements.txt),  then save the [model](./saved_model/best-model.pth) 
-and place in the following structure 
-
-## Directory Structure
+For running the gui you just have to clone this repo and  install all the [requirements](requirements.txt).
 
 Then just run the command ``` streamlit run main.py ```
 
