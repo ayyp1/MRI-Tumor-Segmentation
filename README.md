@@ -19,7 +19,7 @@ Then just run the command ``` streamlit run main.py ```
 
 ### snapshots 
 
-| ![Image 1](./screenshots/home.png) | ![Image 2](./screenshots/result.png) |
+| ![Image 1](./screenshots/home.png) | ![Image 2](./screenshots/output.png) |
 
 
 
